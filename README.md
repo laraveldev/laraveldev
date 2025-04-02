@@ -24,17 +24,17 @@
 
 ### 📊 My GitHub Insights:  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Elnurbek25&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ElnurbekDev&theme=radical)
 
 <table>
   <tr>
     <td align="center" width="33%">
       <strong>📌 Most Used Languages:</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=300" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurbekDev&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td> 
     <td align="center" width="33%">
       <strong>📊 My Stats:</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ElnurbekDev&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td>
      
   </tr>    
@@ -42,7 +42,7 @@
 
 <p align="center"> 
   <b>Visitor count</b> <br>
-  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
+  <img src="https://profile-counter.glitch.me/ElnurbekDev/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
 </p>
 
 ### 📫 Contact Me:  

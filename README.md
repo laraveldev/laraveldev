@@ -24,7 +24,7 @@
 
 ### 📊 My GitHub Insights:  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ElnurbekDev&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=laraveldev&theme=radical)
 
 <table>
   <tr>

@@ -1,3 +1,33 @@
+class Solution {
+
+    /**
+     * @param Integer[] $target
+     * @param Integer $nums
+     * @return Integer[]
+     */
+    function twoSum($nums, $target) {
+    for($i=0;$i<$len-1;$i++){
+    for($j=$i+1;$j<$len;$j++){
+        if($nums[$i]+$nums[$j]==$target){
+            echo "[".$i.",".$j."]";
+          }
+        }
+      }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=10&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;PHP+Laravel+Developer+👨‍💻" alt="Typing SVG" />
 </p>

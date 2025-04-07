@@ -1,20 +1,4 @@
-class Solution {
 
-    /**
-     * @param Integer[] $target
-     * @param Integer $nums
-     * @return Integer[]
-     */
-    function twoSum($nums, $target) {
-    for($i=0;$i<$len-1;$i++){
-    for($j=$i+1;$j<$len;$j++){
-        if($nums[$i]+$nums[$j]==$target){
-            echo "[".$i.",".$j."]";
-          }
-        }
-      }
-    }
-}
 
 
 

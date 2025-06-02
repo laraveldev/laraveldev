@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=10&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;PHP+Laravel+Developer+👨‍💻" alt="Typing SVG" />
 </p>
@@ -23,14 +14,14 @@
 
 ## BIO
 
-- 🏫 I graduated from Myself
+
 - 🛠 Technologies and tools:
-### PHP Laravel JavaS - Html - Css - Git - Github VsCode GoogleCloud
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,gcp" />
+### PHP Laravel JavaS - Html - Css - Git - Github 
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github," />
 
 - 🗄 Databases:
-  ### MySql - Sqlite
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  ### MySql - PostgeSQL
+  <img src="https://skillicons.dev/icons?i=mysql,postgesql" />
 
 ### 📊 My GitHub Insights:  
 

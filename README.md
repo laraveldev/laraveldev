@@ -20,8 +20,8 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github," />
 
 - 🗄 Databases:
-  ### MySql - PostgeSQL
-  <img src="https://skillicons.dev/icons?i=mysql,postgesql" />
+  ### MySql - Pgsql
+  <img src="https://skillicons.dev/icons?i=mysql,pgsql" />
 
 ### 📊 My GitHub Insights:  
 

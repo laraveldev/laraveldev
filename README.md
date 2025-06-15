@@ -17,7 +17,7 @@
 
 - 🗄 Databases:
   ### MySql - Pgsql
-  <img src="https://skillicons.dev/icons?i=mysql,postges" />
+  <img src="https://skillicons.dev/icons?i=mysql,postges,postgesql,pgsql" />
 
 ### 📊 My GitHub Insights:  
 

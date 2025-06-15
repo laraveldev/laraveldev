@@ -12,11 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1&size=17&pause=0&color=F75C7E&width=435&lines=Did+you+know?;I+love+solving+coding+challenges+and+debugging;Is+my+superpower!+🔥" alt="Typing SVG" />
 </p>
 
-## - 🛠 Technologies and tools:
-
-
-
-### PHP Laravel JavaS - Html - Css - Git - Github 
+ 
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,docker,nginx" />
 
 - 🗄 Databases:

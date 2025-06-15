@@ -17,7 +17,7 @@
 
 
 ### PHP Laravel JavaS - Html - Css - Git - Github 
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github," />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,docker" />
 
 - 🗄 Databases:
   ### MySql - Pgsql

@@ -11,10 +11,7 @@
 
 
 
-<p align="center"> 
-  <b>Visitor count</b> <br>
-  <img src="https://profile-counter.glitch.me/laraveldev/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
-</p>
+
 
 ### 📫 Contact Me:  
 

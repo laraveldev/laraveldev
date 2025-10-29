@@ -1,7 +1,7 @@
 
 
  
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,docker,nginx,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,vue,react,git,github,docker,nginx,mysql,postgresql" />
 
 
 
